@@ -27,5 +27,9 @@ In this analysis, I aimed to investigate whether states with warmer climates, re
 <img src="https://github.com/baa151/Project_1/assets/123330888/18f65745-d47b-40e7-ba38-e62ed3139dea" width="500" height="400" alt="Image 2">
 
 
+
 Thus, I have conducted a Mann-Whitney U test, which can be used when the data do not follow a normal distribution.
-<img src="https://github.com/baa151/Project_1/assets/123330888/aef1f970-d86e-4e65-b1d5-feae7cb22a47" width="700" height="400" alt="Image 3">
+
+<p align="center">
+<img src="https://github.com/baa151/Project_1/assets/123330888/aef1f970-d86e-4e65-b1d5-feae7cb22a47" width="600" height="400" alt="Image 3">
+</p>
