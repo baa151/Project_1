@@ -51,7 +51,7 @@ In this analysis, I aimed to investigate whether higher unemployment rates in Fl
 Thus, I have conducted a Mann-Whitney U test again, with a null hypothesis ($H_0$) that says there is no significant difference in COVID-19 deaths between Alabama and Florida in 2021, and an alternative hypothesis ($H_a$) that there is a significant difference.
 
 <p align="center">
-<img src="https://github.com/baa151/Project_1/assets/123330888/5c8ba785-1706-4b08-93e0-deb5299c2bd7" width="200" height="200" alt="Image 6">
+<img src="https://github.com/baa151/Project_1/assets/123330888/5c8ba785-1706-4b08-93e0-deb5299c2bd7" width="600" height="400" alt="Image 6">
 </p>
 
 where:
