@@ -23,7 +23,7 @@ After fitting the data for
 
 In this analysis, I aimed to investigate whether states with warmer climates, represented by Texas, have a higher number of COVID-19 deaths compared to a state with colder weather, such as Michigan, in the year 2021. I have collected COVID-19 death data and I noticed that both data are not normally distributed as shown below :
 
-![image](https://github.com/baa151/Project_1/assets/123330888/359e6e13-797f-43f4-b54f-2be963032d51)
-![image](https://github.com/baa151/Project_1/assets/123330888/07ffeb35-f8f6-426b-b0ad-54980ae1ee10)
+<img src="https://github.com/baa151/Project_1/assets/123330888/11f07067-8772-4881-b3bc-3c4d090af7a1" width="200" height="200" alt="Image 1">
+<img src="https://github.com/baa151/Project_1/assets/123330888/18f65745-d47b-40e7-ba38-e62ed3139dea" width="200" height="200" alt="Image 2">
 
 
