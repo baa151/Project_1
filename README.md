@@ -12,3 +12,18 @@ The second question delves into the environmental factors affecting COVID-19 dea
 ## Question Three: Do higher unemployment rates in 2021 in Florida compared to Alabama result in higher COVID-19 deaths?
 
 The third question revolves around the interplay between employment rates and COVID-19 mortality. The economic consequences of the pandemic, including job losses, have been substantial. To gain a deeper understanding of this aspect, we will investigate whether higher unemployment levels in Florida compared to Alabama in 2021 resulted in a greater number of COVID-19 deaths. This analysis helps us assess the social and health impacts of economic disparities during the pandemic. We plan to use U-test analysis to compare COVID-19 deaths between the two states, shedding light on the potential correlation between unemployment and COVID-19 mortality.
+
+# Results 
+
+## Question One: Does the number of COVID-19 deaths depend on GDP and income?
+
+After fitting the data for 
+
+## Question Two: Do states with warmer environments have a higher number of COVID-19 deaths?
+
+In this analysis, I aimed to investigate whether states with warmer climates, represented by Texas, have a higher number of COVID-19 deaths compared to a state with colder weather, such as Michigan, in the year 2021. I have collected COVID-19 death data and I noticed that both data are not normally distributed as shown below :
+
+![image](https://github.com/baa151/Project_1/assets/123330888/359e6e13-797f-43f4-b54f-2be963032d51)
+![image](https://github.com/baa151/Project_1/assets/123330888/07ffeb35-f8f6-426b-b0ad-54980ae1ee10)
+
+
