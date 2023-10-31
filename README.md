@@ -20,7 +20,7 @@ The third question revolves around the interplay between employment rates and CO
 In this analysis, I aimed to investigate whether the number of COVID-19 deaths in Texas in 2021 depends on economic factors, specifically Gross Domestic Product (GDP) and per capita personal income. I used a linear regression model with interaction effects to explore this relationship. The results are shown below :
 
 <p align="center">
-<img src="https://github.com/baa151/Project_1/assets/123330888/dfec2a5a-ab04-403d-b45f-9474ecf6d414" width="400" height="300" alt="Image 1">
+<img src="https://github.com/baa151/Project_1/assets/123330888/dfec2a5a-ab04-403d-b45f-9474ecf6d414" width="600" height="300" alt="Image 1">
 </p>
 
 ## Question Two: Do states with warmer environments have a higher number of COVID-19 deaths?
