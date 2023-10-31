@@ -47,8 +47,11 @@ Note : It's important to note that while this analysis focuses on two states, th
 
 In this analysis, I aimed to investigate whether higher unemployment rates in Florida compared to Alabama in 2021 resulted in a greater number of COVID-19 deaths. I have collected COVID-19 death data and I noticed that both data are not normally distributed as shown below :
 
+<p align="center">
 <img src="https://github.com/baa151/Project_1/assets/123330888/9a2315a4-97db-40fa-a4b8-a34a28627ddc" width="400" height="300" alt="Image 4">
 <img src="https://github.com/baa151/Project_1/assets/123330888/442e8c24-2baa-494b-90bf-014334c6f2f2" width="400" height="300" alt="Image 5">
+</p>
+
 
 Thus, I have conducted a Mann-Whitney U test again, with a null hypothesis ($H_0$) that says there is no significant difference in COVID-19 deaths between Alabama and Florida in 2021, and an alternative hypothesis ($H_a$) that there is a significant difference.
 
