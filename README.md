@@ -23,8 +23,10 @@ After fitting the data for
 
 In this analysis, I aimed to investigate whether states with warmer climates, represented by Texas, have a higher number of COVID-19 deaths compared to a state with colder weather, such as Michigan, in the year 2021. I have collected COVID-19 death data and I noticed that both data are not normally distributed as shown below :
 
+<p align="center">
 <img src="https://github.com/baa151/Project_1/assets/123330888/11f07067-8772-4881-b3bc-3c4d090af7a1" width="400" height="300" alt="Image 1">
 <img src="https://github.com/baa151/Project_1/assets/123330888/18f65745-d47b-40e7-ba38-e62ed3139dea" width="400" height="300" alt="Image 2">
+</p>
 
 
 Thus, I have conducted a Mann-Whitney U test, which can be used when the data do not follow a normal distribution, with a null hypothesis ($H_0$) that says there is no significant difference in COVID-19 deaths between Texas and Michigan, and an alternative hypothesis ($H_a$) that there is a significant difference.
