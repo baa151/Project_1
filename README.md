@@ -50,8 +50,11 @@ Thus, I have conducted a Mann-Whitney U test, which can be used when the data do
 </p>
 
 where: 
+
 U statistic: 8999.0
+
 P-value    : 0.0508
+
 Fail to reject the null hypothesis: There is no significant difference in COVID-19 deaths between Texas and Michigan.
 
 The results above suggest that : For the specific states of Texas and Michigan in 2021, the climate difference does not seem to have a significant impact on the number of COVID-19 deaths. This may indicate that other factors, such as vaccination rates and population density, play a more prominent role in determining COVID-19 mortality.
@@ -74,8 +77,11 @@ Thus, I have conducted a Mann-Whitney U test again, with a null hypothesis ($H_0
 </p>
 
 where:
+
 U statistic: 1700.0
+
 P-value: 0.0155
+
 Reject the null hypothesis: There is a significant difference in COVID-19 deaths between Alabama and Florida.
 
 The results above suggest that : There is a meaningful relationship between unemployment rates and COVID-19 deaths, with Florida experiencing higher mortality compared to Alabama. Higher unemployment levels in Florida appear to be associated with a greater number of COVID-19 deaths during the year 2021. The findings imply that economic disparities, particularly those related to unemployment, can have health consequences during a pandemic. Understanding this relationship is important for public health and policy decisions, as targeted interventions and support measures may be needed in areas with higher unemployment rates.
