@@ -19,9 +19,13 @@ Looking at the interplay between employment rates and COVID-19 mortality. The ec
 
 In this analysis, I aimed to investigate whether the number of COVID-19 deaths in Texas in 2021 depends on economic factors, specifically Gross Domestic Product (GDP) and per capita personal income. I used a linear regression model with interaction effects to explore this relationship. The results are shown below with a linear regression equation of $y = a x_1 + b x_2 + c x_1 x_2 + d$ :
 
+
 $x_1 :  GDP$
+
 $x_2 : income$
+
 $x_1 x_2$ : interaction$
+
 $d : intercept$
 
 <p align="center">
