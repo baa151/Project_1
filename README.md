@@ -23,6 +23,11 @@ In this analysis, I aimed to investigate whether the number of COVID-19 deaths i
 <img src="https://github.com/baa151/Project_1/assets/123330888/dfec2a5a-ab04-403d-b45f-9474ecf6d414" width="700" height="400" alt="Image 1">
 </p>
 
+-Both GDP and the interaction term have p-values less than 0.05, indicating their statistical significance as predictors of COVID-19 deaths.
+-Income, with a p-value of 0.704, is not statistically significant in this model.
+-The constant term, 1.305e+04, represents the estimated number of COVID-19 deaths when GDP and income are both zero.
+This means that, The significant role of GDP in explaining COVID-19 deaths suggests that the economic health of the state, as measured by its GDP, is associated with the pandemic's impact. States with a stronger economic foundation may have more resources to allocate to healthcare infrastructure, testing, and public health interventions, which can contribute to lower mortality.The negative coefficient implies that as this interaction increases, COVID-19 deaths decrease, although the effect size is small. This could mean that regions with a strong economy and a fair income distribution may experience better health outcomes during a pandemic. The non-significance of income as a predictor of COVID-19 deaths in this specific context could be attributed to several factors. It's possible that income alone may not be a strong predictor because it doesn't capture the comprehensive impact of economic conditions. Income distribution, while important, might not be as influential as the overall economic well-being of the state, as represented by GDP. 
+
 ## Question Two: Do states with warmer environments have a higher number of COVID-19 deaths?
 
 In this analysis, I aimed to investigate whether states with warmer climates, represented by Texas, have a higher number of COVID-19 deaths compared to a state with colder weather, such as Michigan, in the year 2021. I have collected COVID-19 death data and I noticed that both data are not normally distributed as shown below :
