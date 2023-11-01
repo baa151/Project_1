@@ -42,7 +42,9 @@ Notes :
 
 This means that, the significant role of GDP in explaining COVID-19 deaths suggests that the economic health of the state, as measured by its GDP, is associated with the pandemic's impact. States with a stronger economic foundation may have more resources to allocate to healthcare infrastructure, testing, and public health interventions, which can contribute to lower mortality.The negative coefficient implies that as this interaction increases, COVID-19 deaths decrease, although the effect size is small. This could mean that regions with a strong economy and a fair income distribution may experience better health outcomes during a pandemic. The non-significance of income as a predictor of COVID-19 deaths in this specific context could be attributed to several factors. It's possible that income alone may not be a strong predictor because it doesn't capture the comprehensive impact of economic conditions. Income distribution, while important, might not be as influential as the overall economic well-being of the state, as represented by GDP. 
 
-So, $$a = 0.0301$$ $$b = 0.1282$$ $$c = -3.387*10^{-7}$$ $$d = 1.305*10^(4)$$ 
+So, $$a = 0.0301$$ $$b = 0.1282$$
+$$c = -3.387*10^{-7}$$
+$$d = 1.305*10^(4)$$ 
 
 ## Question Two: Do states with warmer environments have a higher number of COVID-19 deaths?
 
