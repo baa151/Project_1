@@ -17,7 +17,12 @@ Looking at the interplay between employment rates and COVID-19 mortality. The ec
 
 ## Question One: Does the number of COVID-19 deaths depend on GDP and income?
 
-In this analysis, I aimed to investigate whether the number of COVID-19 deaths in Texas in 2021 depends on economic factors, specifically Gross Domestic Product (GDP) and per capita personal income. I used a linear regression model with interaction effects to explore this relationship. The results are shown below :
+In this analysis, I aimed to investigate whether the number of COVID-19 deaths in Texas in 2021 depends on economic factors, specifically Gross Domestic Product (GDP) and per capita personal income. I used a linear regression model with interaction effects to explore this relationship. The results are shown below with a linear regression equation of $y = a x_1 + b x_2 + c x_1 x_2 + d$ :
+
+$x_1 :  GDP$
+$x_2 : income$
+$x_1 x_2$ : interaction$
+$d : intercept$
 
 <p align="center">
 <img src="https://github.com/baa151/Project_1/assets/123330888/dfec2a5a-ab04-403d-b45f-9474ecf6d414" width="700" height="400" alt="Image 1">
@@ -33,7 +38,7 @@ Notes :
 
 This means that, the significant role of GDP in explaining COVID-19 deaths suggests that the economic health of the state, as measured by its GDP, is associated with the pandemic's impact. States with a stronger economic foundation may have more resources to allocate to healthcare infrastructure, testing, and public health interventions, which can contribute to lower mortality.The negative coefficient implies that as this interaction increases, COVID-19 deaths decrease, although the effect size is small. This could mean that regions with a strong economy and a fair income distribution may experience better health outcomes during a pandemic. The non-significance of income as a predictor of COVID-19 deaths in this specific context could be attributed to several factors. It's possible that income alone may not be a strong predictor because it doesn't capture the comprehensive impact of economic conditions. Income distribution, while important, might not be as influential as the overall economic well-being of the state, as represented by GDP. 
 
-Thus, my linear regression equation is : $y = a x_1 + b x_2 + c x_1 x_2$
+So, 
 
 ## Question Two: Do states with warmer environments have a higher number of COVID-19 deaths?
 
