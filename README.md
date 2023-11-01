@@ -36,11 +36,11 @@ Notes :
 
 - $a = 0.0301$ $b = 0.1282$$ $c = -3.387e07$ $d = 1.305e04$ 
 
--Both GDP and the interaction term have p-values less than 0.05, indicating their statistical significance as predictors of COVID-19 deaths.
+- Both GDP and the interaction term have p-values less than 0.05, indicating their statistical significance as predictors of COVID-19 deaths.
 
--Income, with a p-value of 0.704, is not statistically significant in this model.
+- Income, with a p-value of 0.704, is not statistically significant in this model.
 
--The constant term, 1.305e+04, represents the estimated number of COVID-19 deaths when GDP and income are both zero.
+- The constant term, 1.305e+04, represents the estimated number of COVID-19 deaths when GDP and income are both zero.
 
 This means that, the significant role of GDP in explaining COVID-19 deaths suggests that the economic health of the state, as measured by its GDP, is associated with the pandemic's impact. States with a stronger economic foundation may have more resources to allocate to healthcare infrastructure, testing, and public health interventions, which can contribute to lower mortality.The negative coefficient implies that as this interaction increases, COVID-19 deaths decrease, although the effect size is small. This could mean that regions with a strong economy and a fair income distribution may experience better health outcomes during a pandemic. The non-significance of income as a predictor of COVID-19 deaths in this specific context could be attributed to several factors. It's possible that income alone may not be a strong predictor because it doesn't capture the comprehensive impact of economic conditions. Income distribution, while important, might not be as influential as the overall economic well-being of the state, as represented by GDP. 
 
