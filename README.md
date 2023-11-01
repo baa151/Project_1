@@ -22,11 +22,11 @@ In this analysis, I aimed to investigate whether the number of COVID-19 deaths i
 
 $x_1 :  GDP$
 
-$x_2 : income$
+$x_2 : Income$
 
-$x_1 x_2 : interaction$
+$x_1 x_2 : Interaction$
 
-$d : intercept$
+$d : Intercept$
 
 <p align="center">
 <img src="https://github.com/baa151/Project_1/assets/123330888/dfec2a5a-ab04-403d-b45f-9474ecf6d414" width="700" height="400" alt="Image 1">
