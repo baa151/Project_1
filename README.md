@@ -36,7 +36,7 @@ Notes :
 
 - Both GDP and the interaction term have p-values less than 0.05, indicating their statistical significance as predictors of COVID-19 deaths.
 
-- Income, with a p-value of 0.489, is not statistically significant in this model.
+- Income "alone", with a p-value of 0.489, is not statistically significant in this model.
 
 - The constant term 33.31, represents the estimated number of COVID-19 deaths when GDP and income are both zero.
 
