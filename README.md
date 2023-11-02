@@ -62,38 +62,37 @@ Thus, I have conducted a Mann-Whitney U test, which can be used when the data do
 
 where: 
 
-U statistic: 8999.0
+P-value    : 0.004382
 
-P-value    : 0.0508
+Mean number of deaths for Michigan = 347.18
 
-Fail to reject the null hypothesis: There is no significant difference in COVID-19 deaths between Texas and Michigan.
+Mean number of deaths for Texas = 295.34
 
-The results above suggest that : For the specific states of Texas and Michigan in 2021, the climate difference does not seem to have a significant impact on the number of COVID-19 deaths. This may indicate that other factors, such as vaccination rates and population density, play a more prominent role in determining COVID-19 mortality.
-Note : It's important to note that while this analysis focuses on two states, the implications may not be generalized to all states. Different states may experience varying impacts of climate on COVID-19.
+Reject the null hypothesis: There is a significant difference in COVID-19 deaths between Texas and Michigan.
+
+This suggests that regions with colder climates may experience a higher number of COVID-19 deaths. There are several factors that could contribute to this pattern.
+Firstly, during colder seasons, individuals are often exposed to less sunlight, which can lead to lower levels of vitamin D production in the body. Vitamin D plays a crucial role in supporting the immune system, and its deficiency can weaken immune responses. Secondly, research has indicated that viruses, including the SARS-CoV-2 virus responsible for COVID-19, can spread more easily in certain weather conditions, such as windy conditions. Wind can disperse respiratory droplets containing the virus over longer distances, potentially increasing the risk of transmission in colder, windy climates.
 
 ## Question Three: Do higher unemployment rates in 2021 in Florida compared to Alabama result in higher COVID-19 deaths?
 
 In this analysis, I aimed to investigate whether higher unemployment rates in Florida compared to Alabama in 2021 resulted in a greater number of COVID-19 deaths. I have collected COVID-19 deaths data and I noticed that both data are not normally distributed as shown below :
 
 <p align="center">
-<img src="https://github.com/baa151/Project_1/assets/123330888/9a2315a4-97db-40fa-a4b8-a34a28627ddc" width="400" height="300" alt="Image 4">
-<img src="https://github.com/baa151/Project_1/assets/123330888/442e8c24-2baa-494b-90bf-014334c6f2f2" width="400" height="300" alt="Image 5">
+<img src="https://github.com/baa151/Project_1/assets/123330888/02b2febb-469e-4e53-8d5b-b4a1fa853d8c" width="400" height="300" alt="Image 4">
+<img src="https://github.com/baa151/Project_1/assets/123330888/25481e7f-9fbb-4713-b969-3e48a52c6080" width="400" height="300" alt="Image 5">
 </p>
 
 
 Thus, I have conducted a Mann-Whitney U test again, with a null hypothesis ($H_0$) that says there is no significant difference in the mean number COVID-19 deaths between Alabama and Florida in 2021, and an alternative hypothesis ($H_a$) that there is a significant difference.
 
 <p align="center">
-<img src="https://github.com/baa151/Project_1/assets/123330888/5c8ba785-1706-4b08-93e0-deb5299c2bd7" width="600" height="400" alt="Image 6">
+<img src="https://github.com/baa151/Project_1/assets/123330888/1f4a17c2-05f5-49aa-a1ea-f038e3366f27" width="600" height="400" alt="Image 6">
 </p>
 
 where:
 
-U statistic: 1700.0
+P-value: 0.20076 
 
-P-value: 0.0155
+Fail to reject the null hypothesis: There is no significant difference in COVID-19 deaths between Alabama and Florida.
 
-Reject the null hypothesis: There is a significant difference in COVID-19 deaths between Alabama and Florida.
-
-The results above suggest that : There is a meaningful relationship between unemployment rates and COVID-19 deaths, with Florida experiencing higher mortality compared to Alabama. Higher unemployment levels in Florida may appear to be associated with a greater number of COVID-19 deaths during the year 2021. The findings imply that economic disparities, particularly those related to unemployment, can have health consequences during a pandemic. Understanding this relationship is important for public health and policy decisions, as targeted interventions and support measures may be needed in areas with higher unemployment rates.
-This underscores the importance of considering the social and economic aspects when assessing the impact of the pandemic.
+The analysis revealed that unemployment did not have a significant effect on COVID-19 deaths in the states of Texas and Michigan during the year 2021. However, it is important to note that these findings are specific to these two states and this particular time period. Further research is needed to assess the impact of unemployment on COVID-19 deaths in other states and to understand how this relationship may vary under different circumstances.
