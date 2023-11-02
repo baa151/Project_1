@@ -29,7 +29,7 @@ $x_1 x_2 : Interaction$
 $d : Intercept$
 
 <p align="center">
-<img src="![image](https://github.com/baa151/Project_1/assets/123330888/9c9d14c6-74d7-4cb5-97e7-6fdee58b9026)" width="700" height="400" alt="Image 1">
+<img src="https://github.com/baa151/Project_1/assets/123330888/9c9d14c6-74d7-4cb5-97e7-6fdee58b9026" width="700" height="400" alt="Image 1">
 </p>
 
 Notes :
