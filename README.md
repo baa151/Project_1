@@ -56,7 +56,7 @@ In this analysis, I aimed to investigate whether states with warmer climates, re
 </p>
 
 
-Thus, I have conducted a Mann-Whitney U test, which can be used when the data do not follow a normal distribution, with a null hypothesis ($H_0$) that says there is no significant difference in COVID-19 deaths between Texas and Michigan, and an alternative hypothesis ($H_a$) that there is a significant difference.
+Thus, I have conducted a Mann-Whitney U test, which can be used when the data do not follow a normal distribution, with a null hypothesis ($H_0$) that says there is no significant difference in the mean number of COVID-19 deaths between Texas and Michigan, and an alternative hypothesis ($H_a$) that there is a significant difference.
 
 <p align="center">
 <img src="https://github.com/baa151/Project_1/assets/123330888/aef1f970-d86e-4e65-b1d5-feae7cb22a47" width="600" height="400" alt="Image 3">
@@ -83,7 +83,7 @@ In this analysis, I aimed to investigate whether higher unemployment rates in Fl
 </p>
 
 
-Thus, I have conducted a Mann-Whitney U test again, with a null hypothesis ($H_0$) that says there is no significant difference in COVID-19 deaths between Alabama and Florida in 2021, and an alternative hypothesis ($H_a$) that there is a significant difference.
+Thus, I have conducted a Mann-Whitney U test again, with a null hypothesis ($H_0$) that says there is no significant difference in the mean number COVID-19 deaths between Alabama and Florida in 2021, and an alternative hypothesis ($H_a$) that there is a significant difference.
 
 <p align="center">
 <img src="https://github.com/baa151/Project_1/assets/123330888/5c8ba785-1706-4b08-93e0-deb5299c2bd7" width="600" height="400" alt="Image 6">
