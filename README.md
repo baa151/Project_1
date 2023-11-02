@@ -34,13 +34,11 @@ $d : Intercept$
 
 Notes :
 
-- $a = 0.0301$ $b = 0.1282$$ $c = -3.387e07$ $d = 1.305e04$ 
-
 - Both GDP and the interaction term have p-values less than 0.05, indicating their statistical significance as predictors of COVID-19 deaths.
 
-- Income, with a p-value of 0.704, is not statistically significant in this model.
+- Income, with a p-value of 0.489, is not statistically significant in this model.
 
-- The constant term, 1.305e+04, represents the estimated number of COVID-19 deaths when GDP and income are both zero.
+- The constant term 33.31, represents the estimated number of COVID-19 deaths when GDP and income are both zero.
 
 This shows that states with a stronger economic foundation may have more resources to allocate to healthcare infrastructure, testing, and public health interventions, which can contribute to lower mortality.The negative coefficient implies that as this interaction increases, COVID-19 deaths decrease, although the coefficient is small. This could mean that regions with a strong economy and a fair income distribution may experience better health outcomes during a pandemic. The non-significance of income as a predictor of COVID-19 deaths in this specific context could be attributed to several factors. It's possible that income alone may not be a strong predictor because it doesn't capture the comprehensive impact of economic conditions. Income distribution, while important, might not be as influential as the overall economic well-being of the state, as represented by GDP. 
 
@@ -51,8 +49,8 @@ So,
 In this analysis, I aimed to investigate whether states with warmer climates, represented by Texas, have a higher number of COVID-19 deaths compared to a state with colder weather, such as Michigan, in the year 2021. I have collected COVID-19 death data and I noticed that both data are not normally distributed as shown below :
 
 <p align="center">
-<img src="https://github.com/baa151/Project_1/assets/123330888/11f07067-8772-4881-b3bc-3c4d090af7a1" width="400" height="300" alt="Image 1">
-<img src="https://github.com/baa151/Project_1/assets/123330888/18f65745-d47b-40e7-ba38-e62ed3139dea" width="400" height="300" alt="Image 2">
+<img src="(https://github.com/baa151/Project_1/assets/123330888/6b5a8f23-c2ec-4cea-ae0e-fde17215f4e8" width="400" height="300" alt="Image 1">
+<img src="https://github.com/baa151/Project_1/assets/123330888/f64c31c8-63c1-4436-9363-7095f3b9bf17" width="400" height="300" alt="Image 2">
 </p>
 
 
