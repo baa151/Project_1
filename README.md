@@ -1,5 +1,5 @@
 # Project_1
-Covid-19 is a disease that has caused millions of deaths worldwide. Many people have lost their loved ones and their jobs because of it. In this study, I will focus on three distinct research questions, each aiming to shed light on the interactions between COVID-19 deaths and different factors.
+Covid-19 is a disease that has caused millions of deaths worldwide. Many people have lost their loved ones and their jobs because of it. In this study, I will focus on three distinct research questions, each aiming to shed light on the potential relationship between COVID-19 deaths and different factors.
 
 ## Question One: Does the number of COVID-19 deaths depend on GDP and income?
 
