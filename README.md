@@ -7,7 +7,7 @@ I investigate the potential influence of economic indicators on COVID-19 mortali
 
 ## Question Two: Do states with warmer environments have a higher number of COVID-19 deaths?
 
-In this question I aim to understand whether enviromental factors affects the number of COVID-19 deaths. Specifically, I ai, to determine whether states with warmer climates experience a higher number of COVID-19 fatalities in the year 2021. The motivation behind this question lies in the potential impact of temperature and humidity on the transmission and survival of the virus. A U-test analysis is applied to compare COVID-19 deaths between Texas, a state with a relatively warm climate, and Michigan, a state with colder weather, in order to assess the relationship between climate and COVID-19 mortality.
+In this question I aim to understand whether enviromental factors affects the number of COVID-19 deaths. Specifically, I aim to determine whether states with warmer climates experience a higher number of COVID-19 fatalities in the year 2021. The motivation behind this question lies in the potential impact of temperature and humidity on the transmission and survival of the virus. A U-test analysis is applied to compare COVID-19 deaths between Texas, a state with a relatively warm climate, and Michigan, a state with colder weather, in order to assess the relationship between climate and COVID-19 mortality.
 
 ## Question Three: Do higher unemployment rates in 2021 in Florida compared to Alabama result in higher COVID-19 deaths?
 
