@@ -11,7 +11,7 @@ In this question I aim to understand whether enviromental factors affects the nu
 
 ## Question Three: Do higher unemployment rates in 2021 in Florida compared to Alabama result in higher COVID-19 deaths?
 
-Looking at the interplay between employment rates and COVID-19 mortality. The economic consequences of the pandemic, including job losses, have been substantial. To gain a deeper understanding of this aspect, I will investigate whether higher unemployment levels in Florida compared to Alabama in 2021 resulted in a greater number of COVID-19 deaths. This analysis helps us assess the social and health impacts of economic disparities during the pandemic. A U-test analysis is applied to compare COVID-19 deaths between the two states, shedding light on the potential correlation between unemployment and COVID-19 mortality.
+In this question I aim to understand the interplay between employment rates and COVID-19 mortality. The economic consequences of the pandemic, including job losses, have been substantial. To gain a deeper understanding of this aspect, I will investigate whether higher unemployment levels in Florida compared to Alabama in 2021 resulted in a greater number of COVID-19 deaths. This analysis helps us assess the social and health impacts of economic disparities during the pandemic. A U-test analysis is applied to compare COVID-19 deaths between the two states, shedding light on the potential correlation between unemployment and COVID-19 mortality.
 
 # Results 
 
